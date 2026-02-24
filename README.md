@@ -62,7 +62,6 @@ sales-analytics-project/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ### Structure Explanation
