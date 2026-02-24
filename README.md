@@ -57,9 +57,11 @@ sales-analytics-project/
 │
 ├── src/
 │   ├── main.py
-│   ├── analysis.py
+│   ├── data_cleaning.py
+|   ├── generate_data.py
+|   ├── analysis.py
 │   └── visualization.py
-│
+|
 ├── requirements.txt
 ├── README.md
 ```
